@@ -1,0 +1,9 @@
+{
+    "name": "passwordgenerator",
+    "version": "1.0.0",
+    "description": "Generates random passwords easily",
+    "main": "js/passwordgenerator.js",
+    "author": "John",
+    "license": "MIT"
+}
+  
